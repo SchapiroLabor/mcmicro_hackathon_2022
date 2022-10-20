@@ -25,6 +25,7 @@ We then set out, to implement these functions into the MCMICRO code.
 ## Testing of the starfish Docker container
 Starfish does have an existing Docker container for the most recent stabled release v0.2.2, which is available from Dockerhub via docker pull spacetx/starfish:0.2.2. (https://hub.docker.com/r/spacetx/starfish/tags).
 
+
 To test whether the Docker image is functional, we test run a script from Sebastian called decoding.py inside the container. This worked without problems and suggested to us, that we can use this container without problems.
 
 ## Figuring out how to run custom python scripts within nextflow
