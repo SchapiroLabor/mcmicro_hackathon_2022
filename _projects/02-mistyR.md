@@ -14,7 +14,7 @@ This project aims to implement MistyR as a downstream module into the MCMICRO pi
 # Day one of the hackathon
 
 ## Setup
-We first evaluated which parts and outputs of MISTyR wanted to implement and to which parameters should the user have access, to have a minimal viable project. We first agreed to implement MISTy as and option for the downstream analyis module.  
+We first evaluated which parts and outputs of MISTyR we wanted to implement and to which parameters the user should have access, to have a minimal viable project. We first agreed to implement MISTy as an option for the downstream analyis module.  
 
 - **Input**:  
 The implementation would take two input files: the quantification file generated from the quantification module, and the markers file (used on any run of MCMICRO).  
