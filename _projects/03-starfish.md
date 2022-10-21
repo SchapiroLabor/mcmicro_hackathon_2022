@@ -49,3 +49,6 @@ workflow:
   iss_decoding: true
 </code>
 </pre>
+
+## Outlook: running version of in situ sequencing module with starfish data
+Though we finished with a mvp that is able to run on data from starfish, for the module to be usable by users, we need to push some further changes. First, we will have to change the netflow orchestration so that other types of data files can be specified for some of the module parameters (ex. the codebook.json file with the formatting to spacetx process). We also need to extend the module so that the user can run the module on other types of data channels (such as nuclei or in some cases anchor images where all the transcripts are expressed). One last important modification will be to take the tiling coordinates information and merge it with the final transcript maps for each field of view so that all results are stored with the same frame of reference from the original raw data. Further implementations could be achieved down the road but it could be more useful to have a nf-core workflow that can then be easily adapted to MCMICRO. 
