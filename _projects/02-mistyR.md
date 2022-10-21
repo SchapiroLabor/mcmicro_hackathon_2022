@@ -33,6 +33,8 @@ As a framework, MISTy allows for a large number of combinations of views, parame
 
 # Day two of the hack'a ton
 
+- **Input**:  
+The user needs to add a column named "misty" to the markers.csv with "x" in the rows of the markers to be considered by MistyR.
 
 # Last working test 
 <pre>
