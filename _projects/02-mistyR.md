@@ -1,6 +1,6 @@
 ---
 number: 2
-title: Misty
+title: MistyR
 pis:
   - Miguel A. Ibarra-Arellano
   - Margot Chazotte

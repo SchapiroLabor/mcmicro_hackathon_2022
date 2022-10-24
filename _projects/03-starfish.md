@@ -3,6 +3,7 @@ number: 3
 title: Starfish
 pis:
   - Sebastian Gonzalez Tirado
+  - Gleb Rukhovich
   - Florian Wuennemann
 
 github: https://github.com/spacetx/starfish
