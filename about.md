@@ -144,4 +144,30 @@ To contact us about the hackathon, please email Florian at flowuenne@gmail.com.
             <br>Bioimage Analyst
         </td>
     </tr>
+    <tr>
+        <td>
+            <img alt="Elyas Heidari" src="https://avatars.githubusercontent.com/u/12120700?v=4">
+        </td>
+        <td>
+            <strong>Elyas Heidari</strong>
+            <span class="profile-links">
+                <a title="GitHub" href="https://github.com/EliHei2"><i class="bi bi-github"></i></a>
+            </span>
+            <br>EMBL Heidelberg
+            <br>PhD Student - Gerstrung lab
+        </td>
+    </tr>
+        <tr>
+        <td>
+            <img alt="Gleb Rukhovich" src="https://avatars.githubusercontent.com/u/22533724?v=4">
+        </td>
+        <td>
+            <strong>Gleb Rukhovich</strong>
+            <span class="profile-links">
+                <a title="GitHub" href="https://github.com/rukhovich"><i class="bi bi-github"></i></a>
+            </span>
+            <br>EMBL Heidelberg
+            <br>Bioinformatician
+        </td>
+    </tr>
 </table>
